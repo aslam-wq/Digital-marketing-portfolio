@@ -31,15 +31,6 @@ export default function HeroNavbar() {
         </div>
       </div>
 
-      {/* Mobile Navbar */}
-      <div className="md:hidden flex items-center justify-between py-1 mb-2 border-b border-white/10 px-4">
-        <div className="w-8 h-8 bg-[#ff7a2f] rounded-lg flex items-center justify-center">
-          <span className="text-black font-black text-xl">A</span>
-        </div>
-        <button className="text-white">
-          <Menu size={20} />
-        </button>
-      </div>
     </>
   );
 }

@@ -18,7 +18,7 @@ export default function HeroLeftCard() {
       <h1 className="text-[24px] xs:text-[28px] md:text-4xl lg:text-6xl font-bold text-white leading-[1.15] md:leading-[0.95] tracking-tighter mb-8 md:mb-6">
         <span className="md:inline block ">I Grow Brands </span>
         <span className="md:inline block ">with SEO & Digital </span>
-        <span className="md:inline block bg-[#FF6B00]">Marketing </span>
+        <span className="md:inline block bg-[#FF6B00]">Marketing</span>
       </h1>
 
       {/* Subtitle - text-[13px] with 1.6 leading on mobile */}
